@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758172640567",
+    "project_id": "triballives-4cff6",
+    "storage_bucket": "triballives-4cff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758172640567:android:f2b02692b6d0837c6ce6b2",
+        "android_client_info": {
+          "package_name": "com.flutterflow.triballives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758172640567-s3u1ip0kss70f4r9q3v2mr6a3ppq78ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBihavWBu3ehzXGh1-_MnB8ZBiMAgxRO-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758172640567-s3u1ip0kss70f4r9q3v2mr6a3ppq78ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
